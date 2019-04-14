@@ -1,6 +1,5 @@
 var express = require("express");
 var app = express();
-// var User = require("./User.js");
 var cors = require("cors");
 var bodyParser = require("body-parser");
 const router = express.Router();
